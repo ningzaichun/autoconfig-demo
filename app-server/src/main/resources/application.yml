@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: app-server
+nzc:
+  sms:
+    name: ningzaichun
+  oss:
+    accessKey: xxxx
+    secret: xxxx
+    endpoint: xxxxx
+    bucketName: xxxxx
+    url: xxxxx
